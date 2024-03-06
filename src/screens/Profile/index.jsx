@@ -3,7 +3,7 @@ import React from 'react'
 
 export default function Profile() {
   return (
-    <View>
+    <View style={styles.container}>
       <Text>Profile</Text>
     </View>
   )
